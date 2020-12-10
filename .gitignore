@@ -1,0 +1,11 @@
+target/
+*.class
+*.log
+
+/.vscode/
+
+/.bsp/
+.metals/
+.bloop/
+.ammonite/
+metals.sbt
